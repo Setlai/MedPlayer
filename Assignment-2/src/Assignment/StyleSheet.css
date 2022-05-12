@@ -1,0 +1,24 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : May 12, 2022, 8:19:36 AM
+    Author     : DELL
+*/
+
+/*hange color of buttons*/
+.button {
+    -fx-background-color: indigo;
+    -fx-text-fill:white;
+}
+
+.root{
+    -fx-background: bisque;
+}
+
+#progressBar.thumb{
+    -fx-pref-height: 25;
+    -fx-border-color: 0 0 0 0;
+    -fx-pref-width: 10;
+}
